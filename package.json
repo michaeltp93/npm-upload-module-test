@@ -8,5 +8,6 @@
 	"type": "module",
 	"dependencies": {
 		"axios": "^0.21.1"
-	}
+	},
+	"repository": "https://github.com/michaeltp93/npm-upload-module-test.git"
 }
