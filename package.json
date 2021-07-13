@@ -1,0 +1,12 @@
+{
+	"name": "npm-upload-module-test",
+	"version": "1.0.1",
+	"description": "This is my first module uploaded to npm for testing",
+	"main": "src/index.js",
+	"author": "michaeltp93 <michael.trejosp@hotmail.es>",
+	"license": "MIT",
+	"type": "module",
+	"dependencies": {
+		"axios": "^0.21.1"
+	}
+}
